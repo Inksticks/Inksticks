@@ -1,3 +1,1 @@
--Hi, I’m a 2d artist interested in doing way too much stuff, including coding.
--I want to improve and/or build applications that help me do art and be more organized overall.
--And I want to know if Git can be used for collaborations beyond coding, like animation
+Look at the repos, ye mighty, and despair! (of the lack of content)
